@@ -1,0 +1,28 @@
+[
+    {"id": 1, "titulo": "El amor en los tiempos del cólera", "autor": "Gabriel García Márquez", "genero": "realismo mágico", "isbn": "9788439729983", "precio": 299.99, "cantidad": 1},
+    {"id": 2, "titulo": "Crónica de una muerte anunciada", "autor": "Gabriel García Márquez", "genero": "realismo mágico", "isbn": "9788439729952", "precio": 299.99, "cantidad": 1},
+    {"id": 3, "titulo": "El resplandor", "autor": "Stephen King", "genero": "terror", "isbn": "9788499899275", "precio": 349.99, "cantidad": 1},
+    {"id": 4, "titulo": "Sherlock Holmes", "autor": "Sir Arthur Conan Doyle", "genero": "policial", "isbn": "9788491054672", "precio": 2233.99, "cantidad": 1},
+    
+    {"id": 5, "titulo": "Cien años de soledad", "autor": "Gabriel García Márquez", "genero": "realismo mágico", "isbn": "9788439731764", "precio": 449.99, "cantidad": 1},
+    {"id": 6, "titulo": "Misery", "autor": "Stephen King", "genero": "terror", "isbn": "9788466345262", "precio": 892.99, "cantidad": 1},
+    {"id": 7, "titulo": "1984", "autor": "George Orwell", "genero": "ficción distópica", "isbn": "9789877991994", "precio": 255.00, "cantidad": 1},
+    {"id": 8, "titulo": "Rebelión en la granja", "autor": "George Orwell", "genero": "alegoría", "isbn": "9789877992328", "precio": 199.99, "cantidad": 1},
+    
+    {"id": 9, "titulo": "Bajo la misma estrella", "autor": "John Green", "genero": "juvenil", "isbn": "9788415594048", "precio": 1041.99, "cantidad": 1},
+    {"id": 10, "titulo": "Orgullo y prejuicio", "autor": "Jane Austen", "genero": "clásicos", "isbn": "9788491059981", "precio": 743.99, "cantidad": 1},
+    {"id": 11, "titulo": "Tu mundo y el mío", "autor": "John Green", "genero": "reseña", "isbn": "9788401027116", "precio": 1041.99, "cantidad": 1},
+    {"id": 12, "titulo": "Ready player one", "autor": "Ernest Cline", "genero": "ciencia ficción", "isbn": "9788490199961", "precio": 1190.99, "cantidad": 1},
+   
+    {"id": 13, "titulo": "Ready Player Two", "autor": "Ernest Cline", "genero": "ciencia ficción", "isbn": "9788418037092", "precio": 1041.99, "cantidad": 1},
+    {"id": 14, "titulo": "El cuento de la criada", "autor": "Margaret Atwood", "genero": "novela contemporanea", "isbn": "9788415631804", "precio": 1339.99, "cantidad": 1},
+    {"id": 15, "titulo": "Los siete maridos de Evelyn Hugo", "autor": "Taylor Jenkins Reid", "genero": "novela", "isbn": "9788417981006", "precio": 829.99, "cantidad": 1},
+    {"id": 16, "titulo": "Americanah", "autor": "Chimamanda Ngozi Adichie", "genero": "novela contemporanea", "isbn": "9788439728801", "precio": 1190.99, "cantidad": 1},
+    
+    {"id": 17, "titulo": "Frankestein", "autor": "Mary Shelley", "genero": "terror", "isbn": "9789504923008", "precio": 1199.99, "cantidad": 1},
+    {"id": 18, "titulo": "El Principito", "autor": "Antoine de Saint-Exupéry", "genero": "fábula", "isbn": "9789563061581", "precio": 569.99, "cantidad": 1},
+    {"id": 19, "titulo": "Mujercitas", "autor": "Louisa May Alcott", "genero": "clásicos", "isbn": "9788408261971", "precio": 719.99, "cantidad": 1},
+    {"id": 20, "titulo": "La Vuelta al Mundo en Ochenta Días", "autor": "Julio Verne", "genero": "ciencia ficción", "isbn": "9788074842542", "precio": 259.99, "cantidad": 1}
+
+
+]

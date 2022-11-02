@@ -1,0 +1,124 @@
+/* reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+/* dark mode */
+
+body {
+  background-color: rgb(255, 244, 244);
+  color: rgb(20, 20, 20);
+  font-size: 25px;
+}
+
+
+.dark-mode {
+  background-color: rgb(39, 39, 39);
+  color: white;
+}
+
+/* header */
+
+.header__nav {
+  flex-wrap: nowrap;
+}
+
+.header__img {
+  width: 35%;
+}
+
+
+/* barra búsqueda */
+
+.barraBusqueda {
+  border-radius: 25px;
+}
+
+.botones {
+  background-color: rgb(172, 39, 22);
+  border-radius: 20px;
+}
+
+.botones:hover {
+  background-color: rgb(212, 30, 30);
+}
+
+
+/* catalogo */
+
+.catalogo {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-items: center;
+  padding: 2rem 5rem;
+}
+
+.catalogo__libros {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-self: center;
+}
+
+.card-texto {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card-titulo {
+  font-size: 1rem;
+  color: #414141;
+}
+
+.card-parrafo {
+  font-size: 0.8rem;
+  color: #414141;
+}
+
+.card-body {
+  justify-content: baseline;
+}
+
+.card-boton {
+  background-color: rgb(172, 39, 22);
+}
+
+.card-boton:hover {
+  background-color: rgb(212, 30, 30);
+}
+
+.carrito__texto {
+  color: rgb(172, 39, 22);
+}
+
+
+/* carrusel */
+
+.carrusel-img {
+  width: 100%;
+}
+
+
+/* footer */
+
+.footer {
+  background-color: rgb(20, 20, 20);
+  padding: 2rem;
+}
+
+.footer__agradecimiento {
+  text-align: center;
+}
+
+.footer__agradecimiento p {
+  font-size: 1.2rem;
+}
+
+.footer__redes {
+  margin: 0;
+  padding: 0;
+}
