@@ -45,8 +45,9 @@ fetch(stockJSON)
                 Toastify({
                     text: `${libro.titulo} fue añadido al carrito`,
                     duration: 2500,
+                    className: "toasty",
                     style: {
-                        background: "rgba(221, 36, 41, 0.9)",
+                        background: "rgb(172, 39, 22)",
                     },
                 }).showToast();
 
@@ -124,6 +125,7 @@ const eliminarLibro = (id) => {
     Toastify({
         text: `${libro.titulo} fue eliminado`,
         duration: 1500,
+        className: "toasty",
         style: {
             background: "rgba(221, 36, 41, 0.8)",
         },
